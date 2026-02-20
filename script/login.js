@@ -8,7 +8,7 @@ document.getElementById('login-btn').addEventListener('click', function(){
     if(contactNumber==01845422114 && pin==1234){
         alert("login success")
 
-        window.location.assign("/home.html");
+        window.location.assign("home.html");
     }
 
     else{
